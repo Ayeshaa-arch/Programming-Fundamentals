@@ -1,4 +1,4 @@
-//Write a program to input a decimal number in main function,
+// Write a program to input a decimal number in main function,
 // pass this number to another function which displays its binary.
 
 #include <iostream>
