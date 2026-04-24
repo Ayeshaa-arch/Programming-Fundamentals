@@ -11,7 +11,7 @@ int Prime(int num)
     {
         if(num % i == 0)
             return 0; // return 0 is for not prime ,because the function is
-			          // in int if its in bool than we woulod write true false instead of 0 &1.
+			          //  in int if its in bool than we woulod write true false instead of 0 & 1.
     }
     return 1; // return 1 is for prime 
 }
